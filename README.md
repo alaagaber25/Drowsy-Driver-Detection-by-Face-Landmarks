@@ -1,9 +1,7 @@
 # Drowsiness Detection System
 ## Description
 This project is a real-time **Drowsiness Detection System** using Python and OpenCV. It tracks eye movements through a webcam, calculates the **Eye Aspect Ratio (EAR)**, and triggers an alarm if drowsiness is detected. Ideal for **driver safety and fatigue detection**, it provides visual alerts and sound warnings to help prevent accidents.
-
 ---
-
 ## Drowsiness Detection Method Overview
 
 This project implements a drowsiness detection system that relies on monitoring the **Eye Aspect Ratio (EAR)**—a simple yet effective metric to determine whether a person’s eyes are open or closed.
@@ -60,9 +58,4 @@ This approach, based on real-time computer vision techniques, offers a reliable 
   - Displays visual cues (eye contours and warnings) and triggers the alarm if drowsiness is detected.
   - Contains a loop that terminates when the user presses "q".
 
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
